@@ -18,6 +18,9 @@ ojk
   i am now editing in vs code 
 
   better!!!!!!!!!!!!!!!!!!!1
+
+  learning how to branch
 >>>>>>> Stashed changes
 
 
+This is me Aditya Prakash.
