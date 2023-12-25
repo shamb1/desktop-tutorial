@@ -1,6 +1,18 @@
 .header{
     background-color: #990011;
+    color:white;
+    overflow: auto;  
+    color:white;
+    overflow: auto; 
+    height: 100px;
     display: flex;
+    align-items: center;
+    
+}
+#logo{
+    width: 70px;
+    height: 70px;
+    padding: 5px;
 }
 
 .headerbutton{
@@ -18,13 +30,10 @@ padding-top: 30px;
     border-radius: 6px;
     text-align: center;
 }
-.headerheading{
-    margin-left: 10px;
-    color:white;
-float: left;
-}
-.body{
+
+body{
     background-color: #FCF6F5;
+    margin: 0px auto;
 }
 .page{
     margin-top: 20%;
