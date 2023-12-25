@@ -1,0 +1,51 @@
+.body{
+    background-color: #FCF6F5;
+}
+.page{
+    margin-top: 20%;
+}
+#searchbar{
+    display: flex;
+    justify-content: center;
+}
+#searchinput{
+    border: 2px solid #FFBE7B;
+    border-radius: 10px;
+    width: 500px;
+    height: 50px;
+    
+}
+#search{
+    border: 2px solid #FFBE7B;
+    border-radius: 10px;
+    background-color: white;
+    width: 50px;
+    height: 57px;
+    margin-left: 10px;
+    
+}
+#searchicon{
+    width: 35px;
+    height: 35px;
+}
+
+.offers{
+    border: 2px solid #3BB103;
+    background-color: #51ff007e;
+    border-radius: 10px;
+    width: 500px;
+    height: 30px;
+    margin: auto;
+    margin-top:20px ;
+    color: #339e01;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+input[type="text"]
+{  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size:24px;
+}
