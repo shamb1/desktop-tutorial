@@ -1,0 +1,25 @@
+.header{
+    background-color: #990011;
+    display: flex;
+}
+
+.headerbutton{
+display: inline-block;
+margin-left: auto;
+padding-right: 10px;
+padding-top: 30px;
+}
+
+.headerbtn{
+    border-color: black;
+    height: max-content;
+    width: 100px;
+    font-size: large;
+    border-radius: 6px;
+    text-align: center;
+}
+.headerheading{
+    margin-left: 10px;
+    color:white;
+float: left;
+}
