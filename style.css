@@ -10,10 +10,7 @@ body{
 .header{
     background-color: #990011;
     color:white;
-    overflow: auto;  
-    color:white;
-    overflow: auto; 
-    height: 100px;
+    height: 5.5rem;
     display: flex;
     align-items: center;
     
@@ -32,26 +29,17 @@ body{
     display: inline;
     padding: 0rem 0.5rem;
 }
-.list-item-inline .link{
+.link{
+   text-decoration: none;
    color: #990011;
    background-color:#FCF6F5;
    border: 2px solid yellow;
    border-radius: 2rem;
    padding: 0.5rem;
 }
-nav{
-    display: block;
-}
-.navigation .nav-pills{
-   
-    margin: 0.6rem 1rem;
-}
 
-a{
-    text-decoration: none;
-}
 .page{
-    margin-top: 20%;
+    margin-top: 10rem;
     
 }
 .page h1{
