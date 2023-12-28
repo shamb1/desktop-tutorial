@@ -30,6 +30,9 @@ padding-top: 30px;
     border-radius: 6px;
     text-align: center;
 }
+a{
+    text-decoration: none;
+}
 
 body{
     background-color: #FCF6F5;
@@ -85,7 +88,7 @@ body{
     
 }
 
-input[type="text"]
+#searchinput[type="text"]
 {  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-size:24px;
